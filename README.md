@@ -11,3 +11,5 @@ There is a lot of room for improvements - in the future, I would like to loop th
 
 Due to the size, the map takes a hot minute to load!
 Find the map here: https://nayanikas.github.io/Interactive-Mapping/BurnSeverity.html
+
+
