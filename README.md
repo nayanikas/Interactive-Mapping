@@ -13,3 +13,5 @@ Due to the size, the map takes a hot minute to load!
 Find the map here: https://nayanikas.github.io/Interactive-Mapping/BurnSeverity.html
 
 
+
+![alt text](https://raw.githubusercontent.com/nayanikas/Interactive-Mapping/master/Screen%20Shot%202019-03-03%20at%208.56.45%20PM.png)
